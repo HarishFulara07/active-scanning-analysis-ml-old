@@ -1,0 +1,9 @@
+rssi.mean|rssi.stddev|rssi.linslope|nonEmptyDataFrame.rate|sleepFrames.binary|emptyNullFrames.rate|associatedProbeRequests.binary|maxConsecutiveBeaconLoss.count|awakeNullFrames.rate|apDisconnectionFrames.binary|clientConnectionFrames.binary|clientAssociated.binary
+|||0.0|0|0.0|0|-1|0.0|0|0|0
+|||0.0|0|0.0|0|-1|0.0|0|0|0
+|||0.0|0|0.0|0|-1|0.0|0|0|0
+-53.820754716981135|20.017703094167707|0.021874501343864063|0.0|0|0.0|0|-1|0.0|0|0|0
+|||0.0|0|0.0|0|-1|0.0|0|0|0
+|||0.0|0|0.0|0|-1|0.0|0|0|0
+|||0.0|0|0.0|0|-1|0.0|0|0|0
+|||0.0|0|0.0|0|-1|0.0|0|0|0
